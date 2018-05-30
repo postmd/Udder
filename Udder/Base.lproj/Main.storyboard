@@ -32,8 +32,8 @@
                                 <color key="textColor" red="1" green="0.57810515169999999" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk" translatesAutoresizingMaskIntoConstraints="NO" id="aC5-tm-xd9">
-                                <rect key="frame" x="0.0" y="277" width="375" height="390"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cow" translatesAutoresizingMaskIntoConstraints="NO" id="aIO-jL-7YS">
+                                <rect key="frame" x="0.0" y="333" width="375" height="334"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -47,6 +47,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="milk" width="415" height="276"/>
+        <image name="cow" width="2048" height="1540"/>
     </resources>
 </document>
